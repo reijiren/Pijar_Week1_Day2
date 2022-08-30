@@ -1,1 +1,1 @@
-# Pijar_Week1_Day2
+# Tugas Javascript Intro 1
